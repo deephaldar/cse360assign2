@@ -1,4 +1,13 @@
-
+//***********************************************************
+// Name: Soumya Deep Haldar
+// Class ID: 1213160479
+// Assignment #: 2
+// Description: This program basically keeps track of all the
+//				transaction going out and coming in by adding 
+//				and subtracting to the current total. And one 
+//				can also check the history of transaction.
+// Date: Oct 9, 2019
+//***********************************************************
 package cse360assign2;
 
 public class AddingMachine {
